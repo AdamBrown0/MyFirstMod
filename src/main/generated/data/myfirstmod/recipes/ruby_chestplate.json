@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "myfirstmod:ruby"
+    }
+  },
+  "pattern": [
+    "R R",
+    "RRR",
+    "RRR"
+  ],
+  "result": {
+    "item": "myfirstmod:ruby_chestplate"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,19 @@
+{
+  "block.myfirstmod.ruby_ore": "Ruby Ore",
+  "block.myfirstmod.ruby_block": "Ruby Block",
+
+  "item.myfirstmod.ruby": "Ruby",
+  "item.myfirstmod.ruby_sword" : "Ruby Sword",
+  "item.myfirstmod.ruby_shovel" : "Ruby Shovel",
+  "item.myfirstmod.ruby_pickaxe" : "Ruby Pickaxe",
+  "item.myfirstmod.ruby_hoe" : "Ruby Hoe",
+  "item.myfirstmod.ruby_axe" : "Ruby Axe",
+  "item.myfirstmod.ruby_helmet" : "Ruby Helmet",
+  "item.myfirstmod.ruby_chestplate" : "Ruby Chestplate",
+  "item.myfirstmod.ruby_leggings" : "Ruby Leggings",
+  "item.myfirstmod.ruby_boots" : "Ruby Boots",
+  "item.myfirstmod.leviathan_spawn_egg": "Leviathan Spawn Egg",
+
+  "entity.myfirstmod.tiger" : "Tigger"
+
+}

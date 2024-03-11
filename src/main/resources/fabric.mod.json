@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "myfirstmod",
+  "version": "${version}",
+  "name": "myfirstmod",
+  "description": "",
+  "authors": [],
+  "contact": {
+    "repo": "https://github.com/adam/myfirstmod"
+  },
+  "license": "All-Rights-Reserved",
+  "icon": "assets/myfirstmod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "fabric-datagen": [
+      "io.github.adambrown0.myfirstmod.DataGeneration"
+    ],
+    "client": [
+      "io.github.adambrown0.myfirstmod.client.MyfirstmodClient"
+    ],
+    "main": [
+      "io.github.adambrown0.myfirstmod.Myfirstmod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=${loader_version}",
+    "fabric": "*",
+    "minecraft": "${minecraft_version}"
+  }
+}

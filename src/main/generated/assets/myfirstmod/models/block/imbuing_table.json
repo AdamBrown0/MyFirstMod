@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/enchanting_table",
+  "textures": {
+    "top": "myfirstmod:block/imbuing_table_top",
+    "bottom": "myfirstmod:block/imbuing_table_bottom",
+    "side": "myfirstmod:block/imbuing_table_side"
+  }
+}

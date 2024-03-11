@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "R": {
+      "item": "myfirstmod:ruby"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "RR",
+    "S ",
+    "S "
+  ],
+  "result": {
+    "item": "myfirstmod:ruby_hoe"
+  },
+  "show_notification": true
+}
